@@ -1,0 +1,154 @@
+body{
+    background-color: white;
+}
+
+.about{
+    font-size: 15px;
+    font-family: arial;
+    width:150px;
+    top: 10px;
+    margin-left:0px;
+    
+}
+
+.store{
+    font-family: arial;
+    font-size: 15px;
+    width:150px;
+    margin-left: 60px;
+    position: absolute; top:0px;
+}
+
+.gmail{
+    font-family: arial;
+    font-size: 15px;
+    width:150px;
+    margin-left: 1150px;
+    position: absolute; top:0px;
+}
+
+.images{
+    font-family: arial;
+    font-size: 15px;
+    width:150px;
+    margin-left: 1200px;
+    position: absolute; top:0px;
+}
+
+.icon{
+    display: block;
+    margin-left: 1250px;
+    width: 8%;
+    position: absolute; top: 8px;
+    
+}
+
+.google {
+  display: block;
+  margin-left: 585px;
+  margin-right: auto;
+  width: 15%;
+  height: 15%;
+  position: absolute; top: 150px;
+}
+
+.search{
+    border-radius:200px;
+    margin-left: 480px;
+    width: 400px;
+    height: 25px;
+    position: absolute; top: 235px;
+
+
+}
+button{
+    background-color: #E6E6E6;
+    color: #525252;
+    border-radius: 2.5px;
+
+}
+
+button:hover {
+    animation-name: border-color;
+    animation-duration: 10ms;
+    animation-fill-mode: forwards;
+}
+
+@keyframes border-color{
+    100%{
+        border-color: #9C9C9C;
+    }
+}
+
+.button1{
+  margin-left: 525px;
+  width: 120px;
+  height: 30px;
+  position: absolute; top: 280px;
+
+}
+
+.button2{
+  width: 120px;
+  height: 30px;
+  margin-left: 700px;
+  position: absolute; top: 280px;
+}
+
+
+.para{
+    font-family: arial;
+    font-size: 15px;
+    display: block;
+  margin-left: 450px;
+  margin-right: auto;
+  width: 500px;
+  position: absolute; top: 310px;
+}
+
+.advertising{
+    font-family: arial;
+    width:150px;
+    margin-left: 0px;
+    position: absolute; top:590px;
+}
+
+.business{
+    font-family: arial;
+    font-size: 15px;
+    width:150px;
+    margin-left: 100px;
+    position: absolute; top: 590px;
+}
+
+.works{
+    font-family: arial;
+    font-size: 15px;
+    width:150px;
+    margin-left: 190px;
+    position: absolute; top:590px;
+}
+
+.privacy{
+    font-family: arial;
+    font-size: 15px;
+    width:150px;
+    margin-left: 1150px;
+    position: absolute; top:590px;
+}
+
+.terms{
+    font-family: arial;
+    font-size: 15px;
+    width:150px;
+    margin-left: 1220px;
+    position: absolute; top:590px;
+}
+
+.settings{
+    font-family: arial;
+    font-size: 15px;
+    width:150px;
+    margin-left: 1280px;
+    position: absolute; top:590px;
+}
